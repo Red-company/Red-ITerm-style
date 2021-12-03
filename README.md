@@ -9,5 +9,3 @@ To use this profile, you, maybe, will need to edit a path to the png(background)
 ## More photos?
 
 ![plot](./Screenshots/2.png)
-
-![plot](./Screenshots/3.png)
