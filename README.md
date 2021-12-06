@@ -1,4 +1,4 @@
-# Red-ITerm-style ![](https://img.shields.io/apm/l/vim-mode)
+# Red's ITerm profile ![](https://img.shields.io/apm/l/vim-mode)
 
 ![plot](./Screenshots/1.png)
 
@@ -9,5 +9,3 @@ To use this profile, you, maybe, will need to edit a path to the png(background)
 ## More photos?
 
 ![plot](./Screenshots/2.png)
-
-![plot](./Screenshots/3.png)
