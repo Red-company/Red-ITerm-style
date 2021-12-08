@@ -1,4 +1,4 @@
-# Red's ITerm profile ![](https://img.shields.io/apm/l/vim-mode)
+# Red's ITerm profile (نمط سطر أوامر ريد) ![](https://img.shields.io/apm/l/vim-mode)
 
 ![plot](./Screenshots/1.png)
 
