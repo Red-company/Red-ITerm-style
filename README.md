@@ -4,7 +4,7 @@
 
 ## How to setup?
 
-To use this profile, you, maybe, will need to edit a path to the png(background). After that you will need to import it in ITerm's settings. Everything you need is in this repository.
+To use this _profile_, you, maybe, will need to edit a path to the _png(background)_. After that you will need to import it in _ITerm_'s settings. Everything you need is in this repository.
 
 ## More photos?
 
